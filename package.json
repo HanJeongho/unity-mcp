@@ -1,0 +1,11 @@
+{
+  "name": "com.hjeongho.unity-mcp",
+  "version": "1.0.0",
+  "displayName": "Unity MCP",
+  "description": "Unity Model Context Protocol implementation",
+  "unity": "2020.3",
+  "author": {
+    "name": "HanJeongho",
+    "url": "https://github.com/HanJeongho"
+  }
+}
